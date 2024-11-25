@@ -3,21 +3,21 @@
   <groupId>com.example</groupId>
   <artifactId>common</artifactId>
   <versioning>
-    <lastUpdated>20241125033804</lastUpdated>
+    <lastUpdated>20241125062115</lastUpdated>
     <snapshot>
-      <timestamp>20241125.033804</timestamp>
+      <timestamp>20241125.062115</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.2-20241125.033804-1</value>
-        <updated>20241125033804</updated>
+        <value>0.0.2-20241125.062115-1</value>
+        <updated>20241125062115</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.2-20241125.033804-1</value>
-        <updated>20241125033804</updated>
+        <value>0.0.2-20241125.062115-1</value>
+        <updated>20241125062115</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
