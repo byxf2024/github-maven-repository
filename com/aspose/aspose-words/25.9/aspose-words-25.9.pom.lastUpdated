@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 29 18:02:55 CST 2025
+@default-central-mirror-https\://nexus.gjmet.com\:6580/repository/maven-public/.lastUpdated=1759140175943
+https\://nexus.gjmet.com\:6580/repository/maven-public/.error=Could not transfer artifact com.aspose\:aspose-words\:pom\:25.9 from/to central-mirror (https\://nexus.gjmet.com\:6580/repository/maven-public/)\: Connect to nexus.gjmet.com\:6580 [nexus.gjmet.com/58.34.174.210] failed\: Connect timed out
+https\://raw.githubusercontent.com/byxf2024/github-maven-repository/main/.error=
+https\://raw.githubusercontent.com/byxf2024/github-maven-repository/main/.lastUpdated=1759140165940
